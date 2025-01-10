@@ -5,20 +5,22 @@
         "libelle" : "Quelle est la capitale de la France ?",
         "points" : 1,
         "type" : "radioButton",
-        "answers": [
-            {"texte" : "Orléans"},
-            {"texte" : "Paris"},
-            {"texte" : "Lyon"},
-            {"texte" : "Marseille"}
-        ],
-        "correct" : "Paris"
+        "answers": ["Orléans", "Paris", "Lyon", "Marseille"],
+        "correct" : ["Paris"]
     },
     {
         "libelle" : "2+2 = ?",
         "points" : 5,
         "type" : "text",
         "answers": [],
-        "correct" : "4"
+        "correct" : ["4"]
+    },
+    {
+        "libelle" : "Qui est un mammifère ?",
+        "points" : 2,
+        "type" : "checkBox",
+        "answers": ["Baleine", "Humain", "Tortue", "Poule"],
+        "correct" : ["Baleine", "Humain"]
     }]
   }
 ]

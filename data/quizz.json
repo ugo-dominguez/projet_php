@@ -1,0 +1,24 @@
+[
+  {
+    "titre" : "tom",
+    "questions": [{
+        "libelle" : "Quelle est la capitale de la France ?",
+        "points" : 1,
+        "type" : "radioButton",
+        "answers": [
+            {"texte" : "Orléans"},
+            {"texte" : "Paris"},
+            {"texte" : "Lyon"},
+            {"texte" : "Marseille"}
+        ],
+        "correct" : "Paris"
+    },
+    {
+        "libelle" : "2+2 = ?",
+        "points" : 5,
+        "type" : "text",
+        "answers": [],
+        "correct" : "4"
+    }]
+  }
+]

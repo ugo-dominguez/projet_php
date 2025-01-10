@@ -5,22 +5,22 @@
         "label" : "Quelle est la capitale de la France ?",
         "points" : 1,
         "type" : "radioButton",
-        "answers": ["Orléans", "Paris", "Lyon", "Marseille"],
+        "options": ["Orléans", "Paris", "Lyon", "Marseille"],
         "correct" : ["Paris"]
-    },
-    {
+        },
+        {
         "label" : "2+2 = ?",
         "points" : 5,
         "type" : "text",
-        "answers": [],
+        "options": [],
         "correct" : ["4"]
-    },
-    {
+        },
+        {
         "label" : "Qui est un mammifère ?",
         "points" : 2,
         "type" : "checkBox",
-        "answers": ["Baleine", "Humain", "Tortue", "Poule"],
+        "options": ["Baleine", "Humain", "Tortue", "Poule"],
         "correct" : ["Baleine", "Humain"]
-    }]
+        }]
   }
 ]

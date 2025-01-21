@@ -1,0 +1,15 @@
+{
+    "name": "projet_php/includes",
+    "autoload": {
+        "psr-4": {
+            "ProjetPhp\\Classes\\": "includes/classes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ugodominguez",
+            "email": "ugo.dominguez@etu.univ-orleans.fr"
+        }
+    ],
+    "require": {}
+}

@@ -1,0 +1,51 @@
+{
+    "quizz": "Les questions nulles",
+    "questions": [
+        {
+            "label": "Quel est le numéro associé au département du Loiret ?",
+            "type": "radio",
+            "choices": ["37", "18", "45", "42"],
+            "correct": "45",
+            "points": 1
+        },
+        {
+            "label": "Quelles lettres sont présentes dans le mot : Casati ?",
+            "type": "checkbox",
+            "choices": ["T", "P", "A", "D"],
+            "correct": ["T", "A"],
+            "points": 2
+        },
+        {
+            "label": "Quel est le résultat de : 3 + 2 ?",
+            "type": "text",
+            "correct": "5",
+            "points": 1
+        },
+        {
+            "label": "Quel est le numéro associé au département du Cher ?",
+            "type": "radio",
+            "choices": ["37", "18", "45", "42"],
+            "correct": "18",
+            "points": 1
+        },
+        {
+            "label": "Parmis les nombres proposés, lesquels sont premiers ?",
+            "type": "checkbox",
+            "choices": ["2", "3", "4", "5"],
+            "correct": ["2", "3", "5"],
+            "points": 2
+        },
+        {
+            "label": "Quel est le résultat de : 3 * 3 ?",
+            "type": "text",
+            "correct": "9",
+            "points": 1
+        },
+        {
+            "label": "Que pensez vous du PHP ?",
+            "type": "textarea",
+            "correct": [],
+            "points": 0
+        }
+    ]
+}

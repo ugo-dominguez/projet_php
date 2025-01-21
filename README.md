@@ -27,3 +27,6 @@ Pour utiliser un fichier .json en particulier, il suffit de modifier la variable
 - Ajoutez la possibilité de configurer le nombre de questions par quiz
 - Ajouter éventuellement un système de login et de gestion des utilisateurs.
 - Ajouter éventuellement un CRUD sur les quizz et les questions.
+
+# Détails :
+Une IA (Claude) a été utilisée pour générer une partie de CSS et pour s'informer sur l'utilisation de composer.

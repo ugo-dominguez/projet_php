@@ -1,7 +1,7 @@
 # Présentation du projet :
-L'application a été développé en PHP.
-C'est une application permetant de présenter un Quizz à partir d'un fichier .json
-Le groupe est constitué de : Ugo DOMINGUEZ et Jules GRUSON--DELANNOY.
+L'application a été développé en PHP.  
+C'est une application permetant de présenter un Quizz à partir d'un fichier .json  
+Le groupe est constitué de : Ugo DOMINGUEZ et Jules GRUSON--DELANNOY.  
 
 # Comment lancer l'application ?
 Il vous suffit d'exécuter la commande suivante à la racine du projet :
@@ -9,8 +9,8 @@ Il vous suffit d'exécuter la commande suivante à la racine du projet :
   $ php -S localhost:8000 -t public
 ```
 
-Un fichier .json de base est fournit dans le projet, vous pourrez baser de potentiel nouveaux QCM sur ce fichier.
-Pour utiliser un fichier .json en particulier, il suffit de modifier la variable `$quizzFile` dans le fichier `index.php`.
+Un fichier .json de base est fournit dans le projet, vous pourrez baser de potentiel nouveaux QCM sur ce fichier.  
+Pour utiliser un fichier .json en particulier, il suffit de modifier la variable `$quizzFile` dans le fichier `index.php`.  
 
 # Fonctionnalités :
 - Organisation du code dans une arborescence cohérente
